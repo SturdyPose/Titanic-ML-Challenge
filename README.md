@@ -2,6 +2,7 @@
 Titanic Kaggle Challenge
 
 This is my solution for [this challenge.](https://www.kaggle.com/c/titanic/overview)
+You can also find the dataset needed for this challenge there.
 
 ### What I learned:
 * Practicing my ML skills , created from popular models (using sklearn library).
